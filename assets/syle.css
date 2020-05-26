@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.container-fluid-override {
+	background-color: #F7B801;
+    height: 100vh;
+}
+
+p {
+	font-family: 'Bangers', cursive;
+    font-size: 6vh;
+    color: #F35B04;
+}
